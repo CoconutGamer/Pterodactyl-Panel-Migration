@@ -8,7 +8,7 @@ Before starting the migration process, ensure the following:
 
 - You have root access to both the old and new machines.
 - You have MySQL installed on both servers.
-- Both the old and new servers have the required dependencies for running Pterodactyl.
+- Both the old and new servers have the required dependencies for running [Pterodactyl](https://pterodactyl.io/).
 - The new server meets the Pterodactyl system requirements.
 
 # Step 1: Backup the Pterodactyl Panel
